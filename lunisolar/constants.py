@@ -1,47 +1,47 @@
-heavenly_stems = ['jia',
-                  'yi',
-                  'bing',
-                  'ding',
-                  'wu',
-                  'ji',
-                  'geng',
-                  'xin',
-                  'ren', 
-                  'gui']
+heavenly_stems = ['jia',   # ¥Ò
+                  'yi',    # ¤A
+                  'bing',  # ¤þ
+                  'ding',  # ¤B
+                  'wu',    # ¥³
+                  'ji',    # ¤v
+                  'geng',  # ©°
+                  'xin',   # ¨¯
+                  'ren',   # ¤Ð
+                  'gui']   # ¬Ñ
 
-elements = ['wood',
-            'wood',
-            'fire',
-            'fire',
-            'earth',
-            'earth',
-            'gold',
-            'gold',
-            'water',
-            'water']
+elements = ['wood',   # ¤ì
+            'wood',   # ¤ì
+            'fire',   # ¤õ
+            'fire',   # ¤õ
+            'earth',  # ¤g
+            'earth',  # ¤g
+            'gold',   # ª÷
+            'gold',   # ª÷
+            'water',  # ¤ô
+            'water']  # ¤ô
 
-earthly_branches = ['zi',
-                    'chou',
-                    'yin',
-                    'mao',
-                    'chen',
-                    'si',
-                    'wu',
-                    'wei',
-                    'shen',
-                    'you',
-                    'xu',
-                    'hai']
+earthly_branches = ['zi',    # ¤l
+                    'chou',  # ¤¡
+                    'yin',   # ±G
+                    'mao',   # ¥f
+                    'chen',  # ¨°
+                    'si',    # ¤x
+                    'wu',    # ¤È
+                    'wei',   # ¥¼
+                    'shen',  # ¥Ó 
+                    'you',   # ¨» 
+                    'xu',    # ¦¦
+                    'hai']   # ¥è
 
-zodiac = [ 'rat', 
-           'ox', 
-           'tiger', 
-           'rabbit', 
-           'dragon', 
-           'snake', 
-           'horse', 
-           'goat',
-           'monkey',
-           'rooster',
-           'dog',
-           'pig']
+zodiac = [ 'rat',        # ¹«
+           'ox',         # ¤û 
+           'tiger',      # ªê
+           'rabbit',     # ¨ß
+           'dragon',     # Às
+           'snake',      # ³D
+           'horse',      # °¨
+           'goat',       # ¦Ï
+           'monkey',     # µU
+           'rooster',    # Âû
+           'dog',        # ª¯
+           'pig']        # ½Þ

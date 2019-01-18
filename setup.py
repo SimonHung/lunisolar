@@ -1,12 +1,12 @@
-from distutils.core import setup
+from setuptools import setup
 requires = ['mpmath']
 setup(
         name = "lunisolar",
         packages = ["lunisolar", "pycalcal"],
         install_requires=requires,
-        version = "0.1.3",
+        version = "0.1.4",
         description = "A library to handle the Chinese calendar",
-        long_description=open('README.rst').read(),
+        long_description=open('README.rst', encoding = 'utf8').read(),
         author = "Lee Wei Yen",
         author_email = "lee@weiyen.me",
         url = "https://github.com/yen223/lunisolar",

@@ -1,3 +1,7 @@
 developer-requirements.txt
 *.ipynb
 docs/
+__pycache__
+/lunisolar.egg-info
+/dist
+/build

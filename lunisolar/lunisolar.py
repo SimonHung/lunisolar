@@ -6,8 +6,8 @@ from pycalcal.wrappers import \
     get_stem, \
     is_valid_chinese_date
 
-from constants import zodiac, elements, heavenly_stems, earthly_branches
-from exceptions import ValueError, TypeError
+from .constants import zodiac, elements, heavenly_stems, earthly_branches
+#from exceptions import ValueError, TypeError
 from datetime import date, timedelta
 
 
